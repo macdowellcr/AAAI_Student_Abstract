@@ -1,7 +1,8 @@
 This repository contains all code files and results related to the AAAI Student Abstract Submission Number 130, "Generative AI-Driven Data Transformation for Enhanced Machine Learning Performance". The folders and files are structured as follows:
   
 1) Baseline  
-	1a) UNSW_NB15_ML_Algorithm_Baseline.ipynb - Jupyter Notebook containing baseline machine learning algorithm performance results from the untransformed dataset.
+	1a) UNSW_NB15_concatenated_dropped.zip - Zip file containing dataset used throughout the experiment.  
+	1b) UNSW_NB15_ML_Algorithm_Baseline.ipynb - Jupyter Notebook containing baseline machine learning algorithm performance results from the untransformed dataset.
   
 3) DeepSeek  
 	2a) Step 1_DeepSeek_API_Instruction_Set_Run.ipynb - Jupyter Notebook containing instructions sent to DeepSeek V3.1 and the output returned.  
