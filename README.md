@@ -1,20 +1,22 @@
 This repository contains all code files and results related to the AAAI Student Abstract Submission Number 130, "Generative AI-Driven Data Transformation for Enhanced Machine Learning Performance". The folders and files are structured as follows:
   
 1) Baseline  
-	1a) UNSW_NB15_concatenated_dropped.zip - Zip file containing dataset used throughout the experiment.  
-	1b) UNSW_NB15_ML_Algorithm_Baseline.ipynb - Jupyter Notebook containing baseline machine learning algorithm performance results from the untransformed dataset.
+	1a) UNSW_NB15_ML_Algorithm_Baseline.ipynb - Jupyter Notebook containing baseline machine learning algorithm performance results from the untransformed dataset.
   
-3) DeepSeek  
+2) DeepSeek  
 	2a) Step 1_DeepSeek_API_Instruction_Set_Run.ipynb - Jupyter Notebook containing instructions sent to DeepSeek V3.1 and the output returned.  
 	2b) Step 2_DeepSeek_Validated_Code_Run.ipynb - Jupyter Notebook containing the data transformation code returned by the model and its completion confirmation.  
     2c) Step 3_DeepSeek_Transformed_Dataset_ML_Run.ipynb - Jupyter Notebook containing the machine learning algorithm performance runs from the DeepSeek-transformed dataset.
      
-5) Gemini  
-   2a) Step 1_Gemini_API_Instruction_Set_Run.ipynb - Jupyter Notebook containing instructions sent to Gemini 2.5 Pro and the output returned.  
-   2b) Step 2_Gemini_Validated_Code_Run.ipynb - Jupyter Notebook containing the data transformation code returned by the model and its completion confirmation.  
-   2c) Step 3_Gemini_Transformed_Dataset_ML_Run.ipynb - Jupyter Notebook containing the machine learning algorithm performance runs from the Gemini-transformed dataset.
+3) Gemini  
+   3a) Step 1_Gemini_API_Instruction_Set_Run.ipynb - Jupyter Notebook containing instructions sent to Gemini 2.5 Pro and the output returned.  
+   3b) Step 2_Gemini_Validated_Code_Run.ipynb - Jupyter Notebook containing the data transformation code returned by the model and its completion confirmation.  
+   3c) Step 3_Gemini_Transformed_Dataset_ML_Run.ipynb - Jupyter Notebook containing the machine learning algorithm performance runs from the Gemini-transformed dataset.
      
-7) DeepSeek  
-   2a) Step 1_GPT_API_Instruction_Set_Run.ipynb - Jupyter Notebook containing instructions sent to GPT-5 and the output returned.  
-   2b) Step 2_GPT_Validated_Code_Run.ipynb - Jupyter Notebook containing the data transformation code returned by the model and its completion confirmation.  
-   2c) Step 3_GPT_Transformed_Dataset_ML_Run.ipynb - Jupyter Notebook containing the machine learning algorithm performance runs from the GPT-transformed dataset.  
+4) DeepSeek  
+   4a) Step 1_GPT_API_Instruction_Set_Run.ipynb - Jupyter Notebook containing instructions sent to GPT-5 and the output returned.  
+   4b) Step 2_GPT_Validated_Code_Run.ipynb - Jupyter Notebook containing the data transformation code returned by the model and its completion confirmation.  
+   4c) Step 3_GPT_Transformed_Dataset_ML_Run.ipynb - Jupyter Notebook containing the machine learning algorithm performance runs from the GPT-transformed dataset.  
+
+5) Dataset  
+  5a) UNSW_NB15_concatenated_dropped.zip - Zip file containing dataset used throughout the experiment.
