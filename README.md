@@ -13,7 +13,7 @@ This repository contains all code files and results related to the AAAI Student 
    3b) Step 2_Gemini_Validated_Code_Run.ipynb - Jupyter Notebook containing the data transformation code returned by the model and its completion confirmation.  
    3c) Step 3_Gemini_Transformed_Dataset_ML_Run.ipynb - Jupyter Notebook containing the machine learning algorithm performance runs from the Gemini-transformed dataset.
      
-4) DeepSeek  
+4) GPT  
    4a) Step 1_GPT_API_Instruction_Set_Run.ipynb - Jupyter Notebook containing instructions sent to GPT-5 and the output returned.  
    4b) Step 2_GPT_Validated_Code_Run.ipynb - Jupyter Notebook containing the data transformation code returned by the model and its completion confirmation.  
    4c) Step 3_GPT_Transformed_Dataset_ML_Run.ipynb - Jupyter Notebook containing the machine learning algorithm performance runs from the GPT-transformed dataset.  
